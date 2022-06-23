@@ -1,0 +1,12 @@
+.imgBlock {
+    width: 10rem;
+    height: 10rem;
+    object-fit: contain
+}
+
+.textEllipsis {
+    
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
