@@ -2,10 +2,10 @@
 
 Development environment
 ```
-`npm start`
+npm start
 ```
 
-production environment
+Production environment
 ```
 npm run build
 ```
